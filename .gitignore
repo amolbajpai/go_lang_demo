@@ -1,0 +1,23 @@
+# Binaries
+/bin
+/pkg
+
+# IDE files
+.vscode
+.idea
+
+# Go build files
+*.exe
+*.test
+*.cover
+
+# Go modules
+# go.mod
+go.sum
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
