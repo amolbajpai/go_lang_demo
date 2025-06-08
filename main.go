@@ -11,4 +11,7 @@ func main() {
 	x, y := 1, 2
 	fmt.Println(x, y)
 	fmt.Println(a)
+
+	const pi float32 = 3.14
+	fmt.Println(pi)
 }
