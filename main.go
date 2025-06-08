@@ -7,4 +7,8 @@ func main() {
 	var intNum int16 = 32767
 	intNum++
 	fmt.Println(intNum)
+	a := 1
+	x, y := 1, 2
+	fmt.Println(x, y)
+	fmt.Println(a)
 }
